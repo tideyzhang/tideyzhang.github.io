@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tideyzhang</title>
+    <link>/</link>
+    <description>Recent content on tideyzhang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Oct 2018 19:38:08 +0800</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 28 Oct 2018 19:38:08 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>关于我是谁~</description>
+    </item>
+    
+    <item>
+      <title>测试默认格式</title>
+      <link>/2018/10/28/%E6%B5%8B%E8%AF%95%E9%BB%98%E8%AE%A4%E6%A0%BC%E5%BC%8F/</link>
+      <pubDate>Sun, 28 Oct 2018 16:12:26 +0800</pubDate>
+      
+      <guid>/2018/10/28/%E6%B5%8B%E8%AF%95%E9%BB%98%E8%AE%A4%E6%A0%BC%E5%BC%8F/</guid>
+      <description>测试在 md 文件前的默认格式是否正确！</description>
+    </item>
+    
+    <item>
+      <title>第二次测试</title>
+      <link>/2018/10/27/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 27 Oct 2018 19:19:42 +0800</pubDate>
+      
+      <guid>/2018/10/27/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%B5%8B%E8%AF%95/</guid>
+      <description>第二次测试</description>
+    </item>
+    
+    <item>
+      <title>测试</title>
+      <link>/2018/10/27/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sat, 27 Oct 2018 19:13:42 +0800</pubDate>
+      
+      <guid>/2018/10/27/%E6%B5%8B%E8%AF%95/</guid>
+      <description>测试文档 添加图片： 测试shortcodes &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; 文档 几个命令： git add &amp;lt;filename&amp;gt; 添加具体的文件 git commit -m &amp;ldquo;what you want to say&amp;rdquo; 将此前添加</description>
+    </item>
+    
+  </channel>
+</rss>
