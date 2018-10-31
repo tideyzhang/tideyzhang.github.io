@@ -21,30 +21,48 @@
     </item>
     
     <item>
-      <title>测试默认格式</title>
-      <link>/2018/10/28/%E6%B5%8B%E8%AF%95%E9%BB%98%E8%AE%A4%E6%A0%BC%E5%BC%8F/</link>
-      <pubDate>Sun, 28 Oct 2018 16:12:26 +0800</pubDate>
+      <title>一到六月的流水账</title>
+      <link>/2018/06/06/%E4%B8%80%E5%88%B0%E5%85%AD%E6%9C%88%E7%9A%84%E6%B5%81%E6%B0%B4%E8%B4%A6/</link>
+      <pubDate>Wed, 06 Jun 2018 19:38:08 +0800</pubDate>
       
-      <guid>/2018/10/28/%E6%B5%8B%E8%AF%95%E9%BB%98%E8%AE%A4%E6%A0%BC%E5%BC%8F/</guid>
-      <description>测试在 md 文件前的默认格式是否正确！</description>
+      <guid>/2018/06/06/%E4%B8%80%E5%88%B0%E5%85%AD%E6%9C%88%E7%9A%84%E6%B5%81%E6%B0%B4%E8%B4%A6/</guid>
+      <description>2018-01 0105 1230回去，到现在正好一周。2018已经过去了5/365，是不是又应该叫时间过得真快了呢？ 回散花结了次婚，又回石首，竟然有种恍然若梦的</description>
     </item>
     
     <item>
-      <title>第二次测试</title>
-      <link>/2018/10/27/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Sat, 27 Oct 2018 19:19:42 +0800</pubDate>
+      <title>古典书目阅读计划</title>
+      <link>/2018/06/01/%E5%8F%A4%E5%85%B8%E4%B9%A6%E7%9B%AE%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92/</link>
+      <pubDate>Fri, 01 Jun 2018 19:38:08 +0800</pubDate>
       
-      <guid>/2018/10/27/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E6%B5%8B%E8%AF%95/</guid>
-      <description>第二次测试</description>
+      <guid>/2018/06/01/%E5%8F%A4%E5%85%B8%E4%B9%A6%E7%9B%AE%E9%98%85%E8%AF%BB%E8%AE%A1%E5%88%92/</guid>
+      <description>发现一个很好的网站：https://ctext.org/zhs 孔子《论语》 杨伯峻《论语译注》 李零《丧家犬》 井上靖《孔子传》 朱熹《四书章句集解</description>
     </item>
     
     <item>
-      <title>测试</title>
-      <link>/2018/10/27/%E6%B5%8B%E8%AF%95/</link>
-      <pubDate>Sat, 27 Oct 2018 19:13:42 +0800</pubDate>
+      <title>最后一顿与遗言</title>
+      <link>/2018/03/23/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%BF%E4%B8%8E%E9%81%97%E8%A8%80/</link>
+      <pubDate>Fri, 23 Mar 2018 19:38:08 +0800</pubDate>
       
-      <guid>/2018/10/27/%E6%B5%8B%E8%AF%95/</guid>
-      <description>测试文档 添加图片： 测试shortcodes &amp;lt;section id=&amp;#34;main&amp;#34;&amp;gt; &amp;lt;div&amp;gt; &amp;lt;h1 id=&amp;#34;title&amp;#34;&amp;gt;{{ .Title }}&amp;lt;/h1&amp;gt; {{ range .Pages }} {{ .Render &amp;#34;summary&amp;#34;}} {{ end }} &amp;lt;/div&amp;gt; &amp;lt;/section&amp;gt; 文档 几个命令： git add &amp;lt;filename&amp;gt; 添加具体的文件 git commit -m &amp;ldquo;what you want to say&amp;rdquo; 将此前添加</description>
+      <guid>/2018/03/23/%E6%9C%80%E5%90%8E%E4%B8%80%E9%A1%BF%E4%B8%8E%E9%81%97%E8%A8%80/</guid>
+      <description>下午看杂志，看到一篇村上春树的采访集锦，问他有没有想过人生最后一顿饭吃什么。村上回答说，“人生的最后一顿我还是想吃烧锅乌冬面。冬天的话自不待</description>
+    </item>
+    
+    <item>
+      <title>八月三十二号日记</title>
+      <link>/2017/08/31/%E5%85%AB%E6%9C%88%E4%B8%89%E5%8D%81%E4%BA%8C%E5%8F%B7%E6%97%A5%E8%AE%B0/</link>
+      <pubDate>Thu, 31 Aug 2017 19:38:08 +0800</pubDate>
+      
+      <guid>/2017/08/31/%E5%85%AB%E6%9C%88%E4%B8%89%E5%8D%81%E4%BA%8C%E5%8F%B7%E6%97%A5%E8%AE%B0/</guid>
+      <description>08-12 好久没有写什么字了，不管是在电脑还是在纸上。虽然是在开一家书店，却好久没看书了。每天都感觉有些什么事情没有做，但其实一天下来，也没做太多事</description>
+    </item>
+    
+    <item>
+      <title>始终未完成的规划</title>
+      <link>/2017/08/07/%E5%A7%8B%E7%BB%88%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E8%A7%84%E5%88%92/</link>
+      <pubDate>Mon, 07 Aug 2017 19:38:08 +0800</pubDate>
+      
+      <guid>/2017/08/07/%E5%A7%8B%E7%BB%88%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E8%A7%84%E5%88%92/</guid>
+      <description>首先，想一下现在想做与能做的有哪几块： 书店相关——书籍相关，饮品学习与制作，微信公众号，日常卫生。 兴趣与技能——python 学习，语言学习，</description>
     </item>
     
   </channel>
