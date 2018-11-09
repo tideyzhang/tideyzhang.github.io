@@ -6,10 +6,19 @@
     <description>Recent content on tideyzhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Oct 2018 19:38:08 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 03 Nov 2018 23:09:33 +0800</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018 11 03 Test</title>
+      <link>/2018/11/03/2018-11-03-test/</link>
+      <pubDate>Sat, 03 Nov 2018 23:09:33 +0800</pubDate>
+      
+      <guid>/2018/11/03/2018-11-03-test/</guid>
+      <description>图片存储在 static/media 文件夹里，测试是否有用：</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -63,6 +72,15 @@
       
       <guid>/2017/08/07/%E5%A7%8B%E7%BB%88%E6%9C%AA%E5%AE%8C%E6%88%90%E7%9A%84%E8%A7%84%E5%88%92/</guid>
       <description>首先，想一下现在想做与能做的有哪几块： 书店相关——书籍相关，饮品学习与制作，微信公众号，日常卫生。 兴趣与技能——python 学习，语言学习，</description>
+    </item>
+    
+    <item>
+      <title>Chrome浏览器使用技巧</title>
+      <link>/2016/02/28/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</link>
+      <pubDate>Sun, 28 Feb 2016 19:37:26 +0800</pubDate>
+      
+      <guid>/2016/02/28/chrome%E6%B5%8F%E8%A7%88%E5%99%A8%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</guid>
+      <description>使用 Chrome 很久，还不时发现一些小的技巧，加上许多已经成为习惯的技巧，便在这里记下来，做一个简单的推荐，也方便自己记忆。 1. 历史 Chrome 浏览器是 Google 在08年</description>
     </item>
     
   </channel>
