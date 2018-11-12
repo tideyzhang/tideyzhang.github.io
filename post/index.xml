@@ -6,10 +6,19 @@
     <description>Recent content in Posts on tideyzhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Nov 2018 23:09:33 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Nov 2018 20:48:54 +0800</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>存在的问题</title>
+      <link>/2018/11/05/%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98/</link>
+      <pubDate>Mon, 05 Nov 2018 20:48:54 +0800</pubDate>
+      
+      <guid>/2018/11/05/%E5%AD%98%E5%9C%A8%E7%9A%84%E9%97%AE%E9%A2%98/</guid>
+      <description>图片插入时在本地编辑器中不能显示，因为使用相对路径。 标题不会自动将日期屏蔽掉，需要自行修改。 在浏览器中显示的字体问题。——如何自定义 在主页端</description>
+    </item>
     
     <item>
       <title>2018 11 03 Test</title>
@@ -18,6 +27,15 @@
       
       <guid>/2018/11/03/2018-11-03-test/</guid>
       <description>图片存储在 static/media 文件夹里，测试是否有用：</description>
+    </item>
+    
+    <item>
+      <title>胡适的文学改良</title>
+      <link>/2018/06/16/%E8%83%A1%E9%80%82%E7%9A%84%E6%96%87%E5%AD%A6%E6%94%B9%E8%89%AF/</link>
+      <pubDate>Sat, 16 Jun 2018 19:38:08 +0800</pubDate>
+      
+      <guid>/2018/06/16/%E8%83%A1%E9%80%82%E7%9A%84%E6%96%87%E5%AD%A6%E6%94%B9%E8%89%AF/</guid>
+      <description>在朋友间推广和实践白话诗后，胡适的「触手」终于伸到了已经离开六七年的中国，将之前与朋友信中所说「文学革命八条件」扩充为一篇文中，寄给《新青年</description>
     </item>
     
     <item>
