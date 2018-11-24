@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>404 Page not found - tideyzhang</title>
-    <meta property="og:title" content="404 Page not found - tideyzhang">
+    <title>404 Page not found - 张潮</title>
+    <meta property="og:title" content="404 Page not found - 张潮">
     
     <meta name="twitter:card" content="summary">
 
@@ -35,9 +35,11 @@
   
   <body class="">
     <header class="masthead">
-      <h1><a href="/">tideyzhang</a></h1>
+      
 
-<p class="tagline">Ivy.</p>
+<h1><a href="/"><img src="/images/logo.png" alt="tideyzhang" /></a></h1>
+
+
 
       <nav class="menu">
   <input id="menu-check" type="checkbox" />
@@ -49,15 +51,13 @@
   <ul>
   
   
-  <li><a href="/">首页</a></li>
+  <li><a href="/blog/">博客</a></li>
+  
+  <li><a href="/collection/">搜集</a></li>
+  
+  <li><a href="/blog/link/">链接</a></li>
   
   <li><a href="/about/">关于</a></li>
-  
-  <li><a href="/collection/">收集</a></li>
-  
-  <li><a href="/havefun/">推荐</a></li>
-  
-  <li><a href="/index.xml">订阅</a></li>
   
   
   </ul>
@@ -70,27 +70,103 @@
       
 <h1>404 Page not found</h1>
 
-<h3>
-</h3>
+
 <hr>
 
 
       </header>
 
 
-404 NOT FOUND
+<p>Page not found. Feel confused? Please go ahead and leave a message below to notify me. Thanks!</p>
+
+<p><img src="https://slides.yihui.name/gif/elevator.gif" alt="404 not found" /></p>
 
   <footer>
   
+
+
+<section class="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+    this.page.url = "https:\/\/tideyzhang.name" + "/404.html" ;
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//tideyzhang.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    var b = false, l = function() {
+      if (b) return;
+      (d.head || d.body).appendChild(s); b = true;
+    }
+    
+    if (location.hash.match(/^#comment/)) return(l());
+    var t = d.getElementById('disqus_thread');
+    var c = function() {
+      if (b) return;
+      var rect = t.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) l();
+    };
+    window.addEventListener('load', c);
+    d.addEventListener('scroll', c);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
+
+
+
+
+<script async src="/js/fix-toc.js"></script>
+
+<script async src="/js/center-img.js"></script>
+
+<script async src="/js/right-quote.js"></script>
+
+<script async src="/js/no-highlight.js"></script>
+
+<script async src="/js/fix-footnote.js"></script>
+
+<script async src="/js/math-code.js"></script>
+
+<script async src="/js/external-link.js"></script>
+
+<script async src="/js/alt-title.js"></script>
+
+
+
+
   
 
   
   <hr>
-  <div class="copyright">&copy; <a href="https://tideyzhang.me">tideyzhang</a></div>
+  <div class="copyright">&copy; <a href="/">tideyzhang</a> 2005 - 2018</div>
   
   </footer>
   </article>
   
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-129751501-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
   </body>
 </html>
 

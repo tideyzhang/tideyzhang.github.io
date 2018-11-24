@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>Tags - 张潮</title>
-    <meta property="og:title" content="Tags - 张潮">
+    <title>可一观 - 张潮</title>
+    <meta property="og:title" content="可一观 - 张潮">
     
     <meta name="twitter:card" content="summary">
 
@@ -23,8 +23,6 @@
     
 
     
-    <link href="/tags/index.xml" rel="alternate" type="application/rss+xml" title="张潮" />
-    
     
 
     <link rel="stylesheet" href="/css/style.css" />
@@ -35,7 +33,7 @@
   </head>
 
   
-  <body class="tags">
+  <body class="collection">
     <header class="masthead">
       
 
@@ -70,8 +68,11 @@
     <article class="main">
       <header class="title">
       
-<h1>Tags</h1>
+<h1>可一观</h1>
 
+
+<h3>张潮 / 
+2018-11-12</h3>
 
 <hr>
 
@@ -79,15 +80,19 @@
       </header>
 
 
-<ul class="terms">
-  
-</ul>
+
+<ol>
+<li>CrashCourse 系列课程：Youtube上有一个 CrashCourse 系列课程，介绍各个学科的比较基础的知识，对初学者很有用。不仅有理科的数据、计算机科学，也有生物、历史之类的课程。B 站有 CrashCourse 字幕组。</li>
+<li>谷歌成长指南：Google 在微信上推出的一个小程序，数字营销短教程。</li>
+<li></li>
+</ol>
+
 
   <footer>
   
 <nav class="post-nav">
-  <span class="nav-prev"></span>
-  <span class="nav-next"></span>
+  <span class="nav-prev">&larr; <a href="/collection/2018/11/%E6%84%8F%E6%B0%94%E8%AF%9D/">意气话</a></span>
+  <span class="nav-next"><a href="/collection/2018/11/%E8%BF%99%E4%B8%96%E7%95%8C/">这世界</a> &rarr;</span>
 </nav>
 <script type="text/javascript">
 document.addEventListener('keyup', function(e) {
@@ -95,7 +100,11 @@ document.addEventListener('keyup', function(e) {
   var url = false;
   if (e.which == 37) {  
     
+    url = '\/collection\/2018\/11\/%E6%84%8F%E6%B0%94%E8%AF%9D\/';
+    
   } else if (e.which == 39) {  
+    
+    url = '\/collection\/2018\/11\/%E8%BF%99%E4%B8%96%E7%95%8C\/';
     
   }
   if (url) window.location = url;
@@ -103,6 +112,44 @@ document.addEventListener('keyup', function(e) {
 </script>
 
 
+
+<section class="comments">
+  <div id="disqus_thread"></div>
+  <script>
+  var disqus_config = function () {
+  
+    this.page.url = "https:\/\/tideyzhang.name" + location.pathname;
+  
+  };
+  (function() {
+    var inIFrame = function() {
+      var iframe = true;
+      try { iframe = window.self !== window.top; } catch (e) {}
+      return iframe;
+    };
+    if (inIFrame()) return;
+    var disqus_js = '//tideyzhang.disqus.com/embed.js';
+    var d = document, s = d.createElement('script');
+    s.src = disqus_js; s.async = true;
+    s.setAttribute('data-timestamp', +new Date());
+    var b = false, l = function() {
+      if (b) return;
+      (d.head || d.body).appendChild(s); b = true;
+    }
+    
+    if (location.hash.match(/^#comment/)) return(l());
+    var t = d.getElementById('disqus_thread');
+    var c = function() {
+      if (b) return;
+      var rect = t.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom >= 0) l();
+    };
+    window.addEventListener('load', c);
+    d.addEventListener('scroll', c);
+  })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</section>
 
 
 
